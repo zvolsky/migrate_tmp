@@ -1,0 +1,1 @@
+v0.1.0,  xx-xx-2018 -- Initial release. Support for movements between standard file storage and django-db-file-storage
